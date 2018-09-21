@@ -15,8 +15,8 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-* AdMob
-* Firebase Analytics
+* [Admob](http://www.dropwizard.io/1.0.2/docs/)
+* [Firebase Analytics] (https://firebase.google.com/policies/analytics)
 
 ## Log Data
 
